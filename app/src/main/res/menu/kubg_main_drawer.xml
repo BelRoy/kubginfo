@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+ <group android:checkableBehavior="single">
+    <item android:id="@+id/il" android:title="@string/il" android:icon="@drawable/ic_done_black_24dp" />
+    <item android:id="@+id/pi" android:title="@string/pi" android:icon="@drawable/ic_done_black_24dp" />
+    <item android:id="@+id/izh" android:title="@string/izh" android:icon="@drawable/ic_done_black_24dp" />
+    <item android:id="@+id/im" android:title="@string/im" android:icon="@drawable/ic_done_black_24dp" />
+    <item android:id="@+id/ifil" android:title="@string/ifil" android:icon="@drawable/ic_done_black_24dp" />
+    <item android:id="@+id/iff" android:title="@string/iff" android:icon="@drawable/ic_done_black_24dp" />
+    <item android:id="@+id/fity" android:title="@string/fity" android:icon="@drawable/ic_done_black_24dp" />
+    <item android:id="@+id/fpmv" android:title="@string/fpmv" android:icon="@drawable/ic_done_black_24dp" />
+    <item android:id="@+id/fz" android:title="@string/fz" android:icon="@drawable/ic_done_black_24dp" />
+    <item android:id="@+id/yk" android:title="@string/yk" android:icon="@drawable/ic_done_black_24dp" />
+</group>
+
+
+</menu>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Розклад пар</string>
+    <string name="title_activity_kubg">Розклад пар</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Меню</string>
+
+    <string name="il">Інститут людини</string>
+    <string name="pi">Педагогічний інститут</string>
+    <string name="izh">Інститут журналістики</string>
+    <string name="im">Інститут мистецтв</string>
+    <string name="ifil">Інститут філології</string>
+    <string name="iff">Історико-філософський  </string>
+    <string name="fity">Інформаційних технологій та управління </string>
+    <string name="fpmv">Факультет права</string>
+    <string name="fz">Факультет здоров’я</string>
+    <string name="yk">Коледж</string>
+    <string name="rss_read">RSS read</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="rss">RSS</string>
+    <string name="rss_feeds">RSS Feeds</string>
+    <string name="title_activity_kubg_main">КУБГ</string>
+</resources>
